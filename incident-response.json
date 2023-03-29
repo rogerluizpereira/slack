@@ -1,9 +1,7 @@
 {
 	"response_type": "in_channel",
-  "text": {
-				"type": "mrkdwn",
-				"text": "<"https://grancursosonline.atlassian.net/servicedesk/customer/portal/9/create/103?customize=true"|Abrir Incidente>"
-			}
-		}
-	]
+	"text": {
+		"type": "mrkdwn",
+		"text": "<https://grancursosonline.atlassian.net/servicedesk/customer/portal/9/create/103?customize=true|Abrir Incidente>"
+	}
 }
